@@ -14,7 +14,7 @@ const Home = () => {
         </div>
         <div className="home-text-section">
           <h1 className="primary-heading">
-            A One Stop and Un Stop platform for all your city needs
+            A One Stop and Non-Stop platform for all your city needs
           </h1>
           <p className="primary-text">
             The INCITYPRO is designed for an overall development of the city which includes the details and insights across the city.
