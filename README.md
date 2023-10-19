@@ -1,5 +1,11 @@
 🌆 Exciting News! Introducing INCITYPRO - Your Ultimate City Companion! 🌆
 
+---
+
+![image](https://github.com/SpandanM110/IN-CITY-PRO/assets/95229740/60736893-d4f1-4814-b59d-25d7e229ca26)
+
+---
+
 Are you tired of juggling multiple apps to keep up with your city's dynamic environment? Imagine having a one-stop platform that caters to all your city-related needs. That's exactly what INCITYPRO is all about!
 
 📰 Stay Informed: Get the latest local news, events, and developments, all in one place, thanks to the News API.
