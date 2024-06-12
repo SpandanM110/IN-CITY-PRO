@@ -6,6 +6,8 @@
 
 ---
 
+MERGING UP AT GITHUB CONSTELLATION OF DREAMS 
+
 Are you tired of juggling multiple apps to keep up with your city's dynamic environment? Imagine having a one-stop platform that caters to all your city-related needs. That's exactly what INCITYPRO is all about!
 
 📰 Stay Informed: Get the latest local news, events, and developments, all in one place, thanks to the News API.
